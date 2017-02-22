@@ -1,29 +1,45 @@
-# truffle-init-webpack
-Example webpack project with Truffle. Includes contracts, migrations, tests, user interface and webpack build pipeline.
+# Basic-Truffle Dapp
+Example Dapp with a very basic Contract example.
+
+## Suggested pre-reading
+[Ethereum - Solidity, intro to smart contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)
+
+
+## Requeriments
+
+Node + npm
+
+Clone this repo
+`git clone https://github.com/armova/Basic-Truffle-Dapp.git`
+
+`npm install -g ethereumjs-testrpc`
+[https://github.com/ethereumjs/testrpc](https://github.com/ethereumjs/testrpc)
+
+`npm install -g truffle`
+[https://github.com/ConsenSys/truffle](https://github.com/ConsenSys/truffle)
 
 ## Usage
 
-To initialize a project with this exapmple, run `truffle init webpack` inside an empty directory.
+### Open a console and do: `testrpc`
 
-## Building and the frontend
+### Open a console, go to your project directory, do:
 
-1. First run `truffle compile`, then run `truffle migrate` to deploy the contracts onto your network of choice (default "development").
-1. Then run `npm run dev` to build the app and serve it on http://localhost:8080
+`truffle compile`
 
-## Possible upgrades
+`truffle migrate`
 
-* Use the webpack hotloader to sense when contracts or javascript have been recompiled and rebuild the application. Contributions welcome!
+`npm run build`
 
-## Common Errors
+`truffle serve`
 
-* **Error: Can't resolve '../build/contracts/MetaCoin.json'**
+Open your app at:
+[http://localhost:8080](http://localhost:8080)
 
-This means you haven't compiled or migrated your contracts yet. Run `truffle compile` and `truffle migrate` first.
 
-Full error:
 
-```
-ERROR in ./app/main.js
-Module not found: Error: Can't resolve '../build/contracts/MetaCoin.json' in '/Users/tim/Documents/workspace/Consensys/test3/app'
- @ ./app/main.js 11:16-59
-```
+
+
+
+
+
+
