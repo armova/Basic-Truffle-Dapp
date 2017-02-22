@@ -1,5 +1,5 @@
-# Basic-Truffle Dapp
-Example Dapp with a very basic Contract example.
+# Basic-Truffle-Dapp
+Example Dapp with a very basic Contract demo.
 
 ## Suggested pre-reading
 [Ethereum - Solidity, intro to smart contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)
@@ -23,7 +23,7 @@ Clone this repo:
 
 ## Usage
 
-#### Open a console and do: 
+#### Open a console and do:
 
 `testrpc`
 
@@ -42,7 +42,7 @@ Open your app at:
 
 ## Continue learning from here:
 
-[Watch this video form min 39](https://youtu.be/8jI1TuEaTro?t=39m15s)
+[Watch this video from min 39 to extend this contract behavior](https://youtu.be/8jI1TuEaTro?t=39m15s)
 
 [Similar tutorial from Truffle with more complex Contracts](http://truffleframework.com/tutorials/building-testing-frontend-app-truffle-3)
 
