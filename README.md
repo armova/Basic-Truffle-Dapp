@@ -1,10 +1,6 @@
 # Basic-Truffle-Dapp
 Example Dapp with a very basic Contract demo. 
 
-## Suggested pre-reading
-[Ethereum - Solidity, intro to smart contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)
-
-
 ## Requeriments
 
 Node + npm
@@ -48,6 +44,9 @@ Open your app at:
 [http://localhost:8080](http://localhost:8080)
 
 ## Continue learning from here:
+
+#### Suggested reading
+[Ethereum - Solidity, intro to smart contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)
 
 [Watch this video from min 39 to extend this contract behavior](https://youtu.be/8jI1TuEaTro?t=39m15s)
 
