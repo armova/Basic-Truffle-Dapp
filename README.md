@@ -34,7 +34,7 @@ Take a look at the project structure and make sure to review the package.json & 
 
 `testrpc`
 
-#### Open a console, go to your project directory, and run:
+#### Open another console, go to your project directory, and run:
 
 `truffle compile`
 
