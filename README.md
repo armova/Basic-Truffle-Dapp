@@ -1,5 +1,5 @@
 # Basic-Truffle-Dapp
-Example Dapp with a very basic Contract demo.
+Example Dapp with a very basic Contract demo. 
 
 ## Suggested pre-reading
 [Ethereum - Solidity, intro to smart contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)
@@ -13,6 +13,8 @@ Clone this repo:
 
 `git clone https://github.com/armova/Basic-Truffle-Dapp.git`
 
+Install testrpc & truffle:
+
 `npm install -g ethereumjs-testrpc`
 
 [https://github.com/ethereumjs/testrpc](https://github.com/ethereumjs/testrpc)
@@ -23,11 +25,11 @@ Clone this repo:
 
 ## Usage
 
-#### Open a console and do:
+#### Open a console and run:
 
 `testrpc`
 
-#### Open a console, go to your project directory, do:
+#### Open a console, go to your project directory, and run:
 
 `truffle compile`
 
