@@ -28,6 +28,7 @@ Install testrpc & truffle:
 [https://github.com/ConsenSys/truffle](https://github.com/ConsenSys/truffle)
 
 ## Usage
+Take a look at the project structure and make sure to review the package.json & webpack.config.json files.
 
 #### Open a console and run:
 
