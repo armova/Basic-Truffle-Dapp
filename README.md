@@ -13,6 +13,10 @@ Clone this repo:
 
 `git clone https://github.com/armova/Basic-Truffle-Dapp.git`
 
+&& run:
+
+`npm install`
+
 Install testrpc & truffle:
 
 `npm install -g ethereumjs-testrpc`
