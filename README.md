@@ -26,6 +26,8 @@ Install testrpc & truffle:
 ## Usage
 Take a look at the project structure and make sure to review the package.json & webpack.config.json files.
 
+You will be running testRPC as a local Ethereum network, using Truffle to compile and deploy the contract to testRPC, building the code with Webpack and finally running the Dapp in your browser and being able to make some basic modifications to the state of the contract. See the transactions being computed in the testRPC simulated Ethereum network.
+
 #### Open a console and run:
 
 `testrpc`
