@@ -19,7 +19,7 @@ Install testrpc & truffle:
 
 [https://github.com/ethereumjs/testrpc](https://github.com/ethereumjs/testrpc)
 
-`npm install -g truffle`
+`npm install -g truffle truffle-expect truffle-config web3`
 
 [https://github.com/ConsenSys/truffle](https://github.com/ConsenSys/truffle)
 
@@ -40,7 +40,7 @@ You will be running testRPC as a local Ethereum network, using Truffle to compil
 
 `npm run build`
 
-`truffle serve`
+`npm run dev`
 
 Open your app at:
 [http://localhost:8080](http://localhost:8080)
